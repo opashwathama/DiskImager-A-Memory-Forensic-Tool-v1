@@ -10,7 +10,7 @@ Disk Imager is a linux based tool developed using wxpython. It is used to create
     1. Kali Linux
 
 # How To Run:
-    1. Go to directory where you downloaded this tool.
+    1. Go to directory where you downloaded this script.
     2. Open Terminal & run following command then press enter.
        
        python main.py
