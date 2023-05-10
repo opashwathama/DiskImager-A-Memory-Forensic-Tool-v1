@@ -1,6 +1,6 @@
 # Disk-Imager---A-Memory-Forensic-Tool
 
-A GUI based forensic tool to create bit by bit copy of disk like Pendrive and Hard Disk.
+GUI based forensic tool to create bit by bit copy of disk like Pendrive and Hard Disk.
 
 # Description:
 
