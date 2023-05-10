@@ -46,4 +46,4 @@ def call():
 	Infomation(None).Show()	
 	ex.MainLoop()
 pass
-
+#
