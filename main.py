@@ -16,7 +16,7 @@ help = 1005
 ###########################################################################
 ## Class MemoryForensicImager
 ###########################################################################
-
+## Disk imaging is the process of copying the contents of a drive and storing it into a single compressed file. Many distinct types of disc images exist. They can be used for backing up files, creating virtual computers in a hypervisor (VMWare, Hyper-V, etc.), as well as for systems deployment.
 
 class MemoryForensicImager ( wx.Frame ):
 	
