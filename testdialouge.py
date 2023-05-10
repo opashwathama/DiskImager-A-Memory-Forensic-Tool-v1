@@ -91,7 +91,7 @@ class Info ( wx.Frame ):
 		self.alert1.Wrap( -1 )
 		self.alert1.SetFont( wx.Font( wx.NORMAL_FONT.GetPointSize(), wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_BOLD, False, wx.EmptyString ) )
 		self.alert1.Enable( False )
-		
+##		
 		gSizer1.Add( self.alert1, 0, wx.ALL, 5 )
 		
 		
