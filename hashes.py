@@ -4,7 +4,7 @@ import wx.xrc
 ###########################################################################
 ## Class Hashes
 ###########################################################################
-
+#
 #Hashes Are Created Succssfully In The Output Location..!!
 class Hashes ( wx.Frame ):
 	
