@@ -15,3 +15,5 @@ Disk Imager is a linux based tool developed using wxpython. It is used to create
 # Example:
 
 python main.py 
+
+#Twitter @Zuber1Vhora
